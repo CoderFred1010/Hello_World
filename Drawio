@@ -1,7 +1,14 @@
 Draw.io
 
 public static Main(String[], ) {
+    int dinfar;
     public main() {
+    dinfar = 4;
+    setDinFar(112);
+
+
+    }
+    public void setDinFar(int dinfar){
 
     }
   }
