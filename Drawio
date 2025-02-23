@@ -1,14 +1,16 @@
 Draw.io
 
 public static Main(String[], ) {
-    int dinfar;
+    private int dinfar;
+    private String[] hvorRacist;
     public main() {
     dinfar = 4;
     setDinFar(112);
+    hvorRacist
 
 
     }
     public void setDinFar(int dinfar){
-
+    this.dinfar = dinfar;
     }
   }
